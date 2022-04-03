@@ -1,0 +1,28 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    min-height: 250px;
+    height: fit-content;
+    background-color: #5e0994d9;
+    border-radius: 50px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.card p, h2{
+    color: #fff;
+    margin: auto;
+    
+}
+
+.card h2{
+    font-size: 30px;
+    
+}
+
+.card p{
+    font-size: 20px;
+}
